@@ -1,6 +1,6 @@
 # HOME CREDIT PREDICTION CREDIT SCORE
 
-## Latar Belakang
+## Background
 Home Credit bertujuan meningkatkan akses keuangan bagi konsumen dengan menggunakan data historis untuk memprediksi kemampuan pembayaran kredit. Pendekatan ini memastikan bahwa pinjaman diberikan dengan cermat kepada konsumen, mencegah risiko gagal bayar, dan mengoptimalkan kualitas layanan keuangan yang diberikan.
 ## Objective
 Mengidentifikasi atribut yang membedakan konsumen yang mungkin mengalami kegagalan dalam pembayaran kredit dari yang tidak. Ini dilakukan untuk melakukan prediksi terhadap kemampuan pembayaran kredit konsumen.
